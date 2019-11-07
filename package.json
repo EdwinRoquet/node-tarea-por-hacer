@@ -1,0 +1,15 @@
+{
+  "name": "04-aplicacion-de-tareas",
+  "version": "1.0.0",
+  "description": "Aplicacion de tareas por hacer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin Roquet",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^14.2.0"
+  }
+}
