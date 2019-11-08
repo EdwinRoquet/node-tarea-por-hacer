@@ -1,6 +1,6 @@
 ## Aplicacion de comandos 
 
-Ejercicio del curso de node de fernando herrera
+Aplicacion que se ejecuta en la terminal de comandos, en la cual puedes crear una tarea por hacer 
 
 Recuerden instalar los paquetes
 
